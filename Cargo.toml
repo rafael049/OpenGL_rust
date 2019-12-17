@@ -1,0 +1,16 @@
+[package]
+name = "engine"
+version = "0.1.0"
+authors = ["Rafael Moraes <vaisefude@tomarnocu.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+sdl2 = "0.32.2"
+gl = "0.14.0"
+failure = "0.1"
+stb_image = "0.2.2"
+glm = "0.2.3"
+
+
